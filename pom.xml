@@ -11,6 +11,12 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>16</maven.compiler.source>
 		<maven.compiler.target>16</maven.compiler.target>
+		
+		<sonar.projectKey>Bcorral_m2-06-junit-events-app-1</sonar.projectKey>
+  		<sonar.organization>bcorral</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>81530ad95724b8f1e1edbf76c3091cfd200d299e</sonar.login>
+		
 	</properties>
 	<dependencies>
 
